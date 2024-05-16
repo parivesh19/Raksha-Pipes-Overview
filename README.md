@@ -25,7 +25,7 @@ A demonstration of Python, SQL, and Power BI integration for data analysis and v
 2. **Install Dependencies:** List necessary Python packages and how to install them (e.g., **`pip install -r requirements.txt`**).
 3. **Run Data Generation Script:** **`python data_generation/generate_data.raksha_pipes.ipynb`**
 4. **Setup MySQL Database:** Run the SQL scripts to create and populate the database.
-"C:\Users\Lenovo\OneDrive\Desktop\Raksha Pipes\Database Scripts"
+(https://github.com/parivesh19/Raksha-Pipes-Overview/tree/da5c6357df6d72e91b5d27d8f7621175a36d75ed/Database%20Scripts)
 5. **Open Power BI Dashboard:** Instructions to link the MySQL database to Power BI and open the dashboard file."C:\Users\Lenovo\OneDrive\Desktop\Raksha Pipes\Dashboard"
 
 ## Presentation
